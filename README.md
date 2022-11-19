@@ -2,4 +2,4 @@
 - 👀 I’m interested in peaches
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Toptal
-- 📫 How to reach me ricardo@durazno.io
+- 📫 How to reach me t.me/marcodali
