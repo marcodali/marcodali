@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcodali
-- 👀 I’m interested in peaches
+- 👀 I’m interested in 🍑
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on Toptal
+- 💞️ I’m looking to live in 🇫🇷
 - 📫 How to reach me t.me/marcodali
