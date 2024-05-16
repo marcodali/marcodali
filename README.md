@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcodali
 - 👀 I’m interested in 🍑
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning Azure API Management
 - 💞️ I’m looking to live in 🇫🇷
 - 📫 How to reach me t.me/marcodali
