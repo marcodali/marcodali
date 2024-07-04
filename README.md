@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcodali
-- 👀 I’m interested in 🍑
-- 🌱 I’m currently learning Azure API Management
+- 👀 I’m interested in [🦜](https://www.langchain.com)
+- 🌱 I’m currently learning [Data Streaming](https://www.udacity.com/course/data-streaming-nanodegree--nd029)
 - 💞️ I’m looking to live in 🇫🇷
 - 📫 How to reach me t.me/marcodali
